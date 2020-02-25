@@ -19,14 +19,5 @@ def bonus
       ]
    }
   }
-
- epic_tragedy[:capulet] {
- [:heroine] [:status]=
- "dead"
- 
- epic_tragedy[:Montague]
- [:hero][:status]=
- "dead"
-}
  
  
